@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digitalmechanic321
 - 👀 I’m interested in ... developing AI, Blockchain and equality for all.
-- 🌱 I’m currently learning ... hyperledger
+- 🌱 I’m currently learning ... hyperledger fabric.
 - 💞️ I’m looking to collaborate on ... building unique solutions.
 - 📫 How to reach me ... Mark Ironside 905-920-0842 mark@digitalcanada.tv
 
